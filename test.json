@@ -1,0 +1,37 @@
+{
+  
+  "success": true,
+  "data": {
+    "Id_Zone": "00101",
+    "lat":  13.106318539557826,
+    "lng": 2109.29532558881996,
+    "Name_Camera": "PTZ_001",
+    "Ip_Camera": "192.168.0.1",
+    "Icon_TrafficCamera": "<fa>camera</fa>",
+    "Event_TrafficCamera": "Giao lo km 28",
+    "Note": "demo",
+    "Last_Time": "2023-02-13T10:52:04.068Z",
+    "Last_Update": "2023-02-13T17:55:19.2703142+07:00",
+    "Create_Date": "2023-02-13T17:55:19.2707541+07:00",
+    "Create_Id": "001",
+    "Write_Date": "2023-02-13T10:52:04.068Z",
+    "write_Id": "001"
+  },
+  "data1":{
+    "Id_Zone": "00101",
+    "lat":  13.106318539557826,
+    "lng": 2109.29532558881996,
+    "Name_Camera": "PTZ_002",
+    "Ip_Camera": "192.168.0.2",
+    "Icon_TrafficCamera": "<fa>camera</fa>",
+    "Event_TrafficCamera": "Giao lo km 28",
+    "Note": "demo",
+    "Last_Time": "2023-02-13T10:52:04.068Z",
+    "Last_Update": "2023-02-13T17:55:19.2703142+07:00",
+    "Create_Date": "2023-02-13T17:55:19.2707541+07:00",
+    "Create_Id": "001",
+    "Write_Date": "2023-02-13T10:52:04.068Z",
+    "write_Id": "001"
+  }
+
+}
